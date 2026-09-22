@@ -13,7 +13,7 @@ Selamat datang di repositori LAB-BASIS-DATA-13-2026! Repositori ini adalah tempa
 
 ```
 
-3. Setelah Anda **clone**, masuk ke folder hasil **clone** tersebut lalu buat **branch** dengan nama **NIM** Anda
+3. Setelah Anda clone, masuk ke folder hasil clone tersebut lalu buat branch dengan nama NIM Anda
 ```sh
 cd LAB-BASIS-DATA-13-2026
 git branch NIM_ANDA
